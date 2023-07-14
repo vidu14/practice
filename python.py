@@ -1,0 +1,2 @@
+name = ("vidu")
+print(name)
